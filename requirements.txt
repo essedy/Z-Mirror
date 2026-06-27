@@ -27,6 +27,7 @@ python-magic
 qbittorrent-api
 requests
 telegraph
+setuptools<70.0.0
 tenacity
 tgcrypto
 urllib3
